@@ -1,4 +1,4 @@
-# Control Strategies for Renewable Energy Sources and Battery Systems
+# Control Strategies for Renewable Energy Sources and Battery Systems in Low Voltage Networks
 
 ## Project Overview
 
